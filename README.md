@@ -1,16 +1,36 @@
-### Hi there 👋
+## Hello, I am the Banana
+![adad](jigglypuff_half.png)
+### Software preferences:
+- Image work
+  - Blender, Krita, GIMP, FFmpeg
+- Video work
+  - FFmpeg, Kdenlive, Blender, Natron
+- KVM/QEMU
 
-<!--
-**spacebanana420/spacebanana420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Main languages:
+- Ruby
+- Rust
+- Bash
+- Python
 
-Here are some ideas to get you started:
+### Main systems:
+- Debian (testing)
+- Fedora Linux
+- Arch Linux
+- NixOS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Favorite games:
+- Touhou
+- Kirby
+- Pokémon
+- Klonoa
+- Garry's Mod
+- Team Fortress 2
+
+### Pokémon team:
+- Gardevoir
+- Latias
+- Spinda
+- Mismagius
+- Quagsire
+- Musharna
