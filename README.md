@@ -1,5 +1,7 @@
 ## Hello, I am the Banana
-![adad](jigglypuff_half.png)
+I am Space Banana, I like systems, programming and digital art. I like Pokémon and platformers like Kirby and Mario. I use Debian with KDE Plasma.
+
+![THE Jigglypuff](jigglypuff_half.png)
 ### Software preferences:
 - Image work
   - Blender, Krita, GIMP, FFmpeg
@@ -8,20 +10,6 @@
 - KVM/QEMU
 - Cooding
   - Ruby, Rust, Bash, Python
-
-### Main systems:
-- Debian (testing)
-- Fedora Linux
-- Arch Linux
-- NixOS
-
-### Favorite games:
-- Touhou
-- Kirby
-- Pokémon
-- Klonoa
-- Garry's Mod
-- Team Fortress 2
 
 ### Pokémon team:
 - Gardevoir
