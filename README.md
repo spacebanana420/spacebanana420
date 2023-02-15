@@ -6,12 +6,8 @@
 - Video work
   - FFmpeg, Kdenlive, Blender, Natron
 - KVM/QEMU
-
-### Main languages:
-- Ruby
-- Rust
-- Bash
-- Python
+- Cooding
+  - Ruby, Rust, Bash, Python
 
 ### Main systems:
 - Debian (testing)
