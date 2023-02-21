@@ -1,7 +1,7 @@
 ## Hello, I am the Banana
 I am Space Banana, I like systems, programming and digital art. I like Pokémon and platformers like Kirby and Mario. I use Debian with KDE Plasma.
 
-<img src="jigglypuff%202.png" width="400" />
+<img src="jigglypuff%202.png" width="300" />
 
 ### Software preferences:
 - Image work
