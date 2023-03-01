@@ -11,3 +11,4 @@ I am Space Banana, I like systems, programming and digital art. I like Pokémon 
 - KVM/QEMU
 - Cooding
   - Ruby, Rust, Bash, Python
+  - Kate, Vim, Pulsar
