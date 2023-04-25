@@ -4,7 +4,7 @@ I am Space Banana, I am a hobbyist system administrator, programmer and digital 
 <img src="jigglypuff%202.png" width="200" />
 
 ### Things that I like:
-- Main Games/franchises
+- Games and franchises
   - Kirby, Touhou, Smash, Tomodachi Life, Pokémon, Minecraft, Gmod, TF2
 - Image work
   - Blender, Krita, GIMP, Darktable, FFmpeg
