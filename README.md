@@ -1,5 +1,5 @@
 ## Hello, I am the Banana
-I am Space Banana, I like systems, programming and digital art. I spread Kirby propaganda
+I am Space Banana, I am a hobbyist system administrator, programmer and digital artist. I spread Kirby propaganda
 
 <img src="jigglypuff%202.png" width="200" />
 
