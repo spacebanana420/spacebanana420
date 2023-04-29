@@ -9,7 +9,7 @@ I am Space Banana, I am a hobbyist system administrator, programmer and digital 
 - Image work
   - Blender, Krita, GIMP, Darktable, FFmpeg
 - Video work
-  - FFmpeg, Kdenlive, Blender, Natron, DaVinci Resolve
+  - Kdenlive, Blender, FFmpeg, Natron, DaVinci Resolve
 - Systems and Programming
   - Debian, NixOS, Fedora, Arch
   - KVM/QEMU
