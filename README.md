@@ -7,7 +7,7 @@ I am Space Banana, I am a hobbyist system administrator, programmer and digital 
 - Games and franchises
   - Kirby, Touhou, Smash, Tomodachi Life, Pokémon, Minecraft, Gmod, TF2
 - Image work
-  - Blender, Krita, GIMP, Darktable, FFmpeg
+  - Blender, Krita, Natron, GIMP, Darktable, FFmpeg
 - Video work
   - Kdenlive, Blender, FFmpeg, Natron, DaVinci Resolve
 - Systems and Programming
