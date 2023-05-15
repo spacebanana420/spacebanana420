@@ -5,12 +5,12 @@ I am Space Banana, I am a hobbyist system administrator, programmer and digital 
 
 ### Things that I like:
 - Games and franchises
-  - Kirby, Touhou, Smash, Tomodachi Life, Pokémon, Minecraft, Gmod, TF2
+  - Kirby, Touhou, Smash, Gmod, TF2, Tomodachi Life, Pokémon, Minecraft
 - Image work
   - Blender, Krita, Natron, GIMP, Darktable, FFmpeg
 - Video work
   - Kdenlive, Blender, FFmpeg, Natron, DaVinci Resolve
 - Systems and Programming
-  - Debian, NixOS, Fedora, openSUSE, Arch
+  - Debian, NixOS, openSUSE, Fedora, Arch
   - KVM/QEMU
   - Ruby, Rust, Bash, Python, Lua
