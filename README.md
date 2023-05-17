@@ -11,6 +11,6 @@ I am Space Banana, I am a hobbyist system administrator, programmer and digital 
 - Video work
   - Kdenlive, Blender, FFmpeg, Natron, DaVinci Resolve
 - Systems and Programming
-  - Debian, NixOS, openSUSE, Fedora, Arch
+  - Debian, NixOS, Arch, openSUSE, Fedora
   - KVM/QEMU
   - Ruby, Rust, Bash, Python, Lua
