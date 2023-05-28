@@ -1,5 +1,5 @@
 ## Hello, I am the Banana
-I am Space Banana, I am a hobbyist system administrator, programmer and digital artist. I spread Kirby propaganda
+I am Space Banana, I am a hobbyist digital artist, system administrator and programmer and I spread Kirby propaganda. I write userspace CLI software
 
 <img src="jigglypuff%202.png" width="200" />
 
@@ -11,6 +11,6 @@ I am Space Banana, I am a hobbyist system administrator, programmer and digital 
 - Video work
   - Kdenlive, Blender, FFmpeg, Natron, DaVinci Resolve
 - Systems and Programming
-  - Debian, NixOS, Arch, openSUSE, Fedora
+  - Debian, NixOS, Arch, openSUSE, Fedora, etc
   - KVM/QEMU
-  - Ruby, Rust, Bash, Python, Lua
+  - Ruby, Rust, Bash, Python, Lua (learning Go)
