@@ -13,4 +13,4 @@ I am Space Banana. I am a hobbyist digital artist, system administrator and prog
 - Systems and Programming
   - Debian, NixOS, Arch, openSUSE, Fedora, etc
   - KVM/QEMU
-  - Ruby, Rust, Bash, Python, Lua (learning Go)
+  - Ruby, Go, Rust, Bash, Python, Lua
