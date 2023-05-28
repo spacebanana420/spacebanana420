@@ -1,5 +1,5 @@
 ## Hello, I am the Banana
-I am Space Banana, I am a hobbyist digital artist, system administrator and programmer and I spread Kirby propaganda. I write userspace CLI software
+I am Space Banana. I am a hobbyist digital artist, system administrator and programmer and I spread Kirby propaganda. I write userspace CLI software
 
 <img src="jigglypuff%202.png" width="200" />
 
