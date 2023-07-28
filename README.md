@@ -5,7 +5,7 @@ I am Space Banana. I am a hobbyist digital artist, system administrator and prog
 
 ### Things that I like:
 - Games and franchises
-  - Kirby, Touhou, Smash, Gmod, TF2, Tomodachi Life, Pokémon, Minecraft
+  - Kirby, Touhou, Smash, Gmod, TF2, Tomodachi Life, Pokémon, Minecraft, Omori, OneShot, and much more
 - Image work
   - Blender, Krita, Natron, GIMP, Darktable, FFmpeg
 - Video work
