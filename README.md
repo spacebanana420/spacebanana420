@@ -13,5 +13,6 @@ I am Space Banana. I am a hobbyist digital artist, programmer and self-proclaime
 - Software workflow
   - NixOS as my main OS
   - KVM/QEMU
-  - Ruby, Bash and just now Java
-    - Go, Rust, Python, Lua, etc as secondary languages
+  - Ruby, Bash and Java
+    - Rust, Python, Lua, etc as secondary languages
+    - I intend on eventually using Crystal and trying out Clojure and Kotlin
