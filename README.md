@@ -15,4 +15,5 @@ I am Space Banana. I am a hobbyist digital artist, programmer and self-proclaime
   - KVM/QEMU
   - Ruby, Bash and Java
     - Rust, Python, Lua, etc as secondary languages
+    - Currently trying out Scala
     - I intend on eventually using Crystal and trying out Clojure and Kotlin
