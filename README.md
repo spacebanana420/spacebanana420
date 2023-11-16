@@ -1,7 +1,7 @@
 ## Hello, I am the Banana
 I am Space Banana. I am a hobbyist digital artist and programmer and I spread Kirby propaganda.
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bsd,blender,scala,ruby,java,bash,rust,python,lua,unity,neovim,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bsd,blender,scala,ruby,java,bash,rust,python,lua,unity)](https://skillicons.dev)
    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spacebanana420&layout=compact&theme=dark)
 
