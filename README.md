@@ -14,4 +14,6 @@ Besides software and computers, I also like digital art:
 - Video workflow
   - Kdenlive, Blender, FFmpeg, OBS Studio, Natron, DaVinci Resolve
 
+I also host a [repository with my written articles](https://github.com/spacebanana420/writtenworks)
+
 <img src="jigglypuff%202.png" width="150" />
