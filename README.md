@@ -5,4 +5,4 @@ I am Space Banana. I am a programmer and digital artist and I spread Kirby propa
 
 I also host a [repository with my written articles](https://github.com/spacebanana420/writtenworks)
 
-<img src="img/Yukaridromeda.png" width="150" />
+<img src="img/Yukaridromeda_quarter.png" width="150" />
