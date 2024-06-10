@@ -3,6 +3,7 @@ I am Space Banana. I am a programmer and digital artist and I spread Kirby propa
    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spacebanana420&layout=compact&theme=dark)
 
-I also host a [repository with my written articles](https://github.com/spacebanana420/writtenworks)
+* [List of my projects](projects.md)
+* [My written works](https://github.com/spacebanana420/writtenworks)
 
 <img src="img/Yukaridromeda_quarter.png" width="150" />
