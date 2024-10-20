@@ -1,6 +1,20 @@
-# My software projects
+# Software Projects
 
 Here is a list of my most developed projects:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spacebanana420&repo=yuuka&theme=dark)](https://github.com/spacebanana420/yuuka)
+
+* Type: Program
+* Supported Operating systems: Cross-platform
+
+---
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spacebanana420&repo=parasol&theme=dark)](https://github.com/spacebanana420/parasol)
+
+* Type: Program
+* Supported Operating systems: Cross-platform
+
+---
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spacebanana420&repo=tanuki&theme=dark)](https://github.com/spacebanana420/tanuki)
 
@@ -22,52 +36,13 @@ Here is a list of my most developed projects:
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spacebanana420&repo=yakumo&theme=dark)](https://github.com/spacebanana420/yakumo)
-
-* Type: Program
-* Supported Operating systems: Cross-platform
-
----
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spacebanana420&repo=tofu&theme=dark)](https://github.com/spacebanana420/tofu)
 
 * Type: Program
 * Supported Operating systems: Cross-platform
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spacebanana420&repo=Spinplay&theme=dark)](https://github.com/spacebanana420/Spinplay)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spacebanana420&repo=yakumo&theme=dark)](https://github.com/spacebanana420/yakumo)
 
 * Type: Program
 * Supported Operating systems: Cross-platform
-
----
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spacebanana420&repo=scalazip&theme=dark)](https://github.com/spacebanana420/scalazip)
-
-* Type: Library
-
----
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spacebanana420&repo=Parasol&theme=dark)](https://github.com/spacebanana420/Parasol)
-
-* Type: Program
-* Supported Operating systems: Cross-platform
-
----
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spacebanana420&repo=Kerolauncher&theme=dark)](https://github.com/spacebanana420/Kerolauncher)
-
-* Type: Program
-* Supported Operating systems: Cross-platform
-
----
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spacebanana420&repo=bananatui&theme=dark)](https://github.com/spacebanana420/bananatui)
-
-* Type: Library
-
----
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spacebanana420&repo=bananaconf&theme=dark)](https://github.com/spacebanana420/bananaconf)
-
-* Type: Library
