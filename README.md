@@ -1,5 +1,5 @@
 ## Hello, I am the Banana
-I am Space Banana. I am a programmer and digital artist. I primarily work with Java and Scala, and I love 3D art and image manipulation.
+I am Space Banana. I love programming, digital media encoding and Unix-like operating systems. I also do image manipulation, photography and 3D stuff.
    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spacebanana420&layout=compact&theme=dark)
 
