@@ -5,7 +5,7 @@ I like computer systems, image art and nature.
 I am a reserved person but I am not very shy. I don't socialize much but when I do I like to make it count.
 
 <p align="center">
-  <img src="img/Moriya Shrine.png" width="200" />
+  <img src="img/Moriya Shrine.png" width="300" />
 </p>
 
 
