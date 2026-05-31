@@ -1,6 +1,6 @@
 # About Me
-I am Space Banana. I work in the programming field and I like to treat the different aspects of life as systems that you create and tinker with.
-I like computer systems, image art and nature.
+I am Space Banana, a slacker programmer who treats the different aspects of life as systems that you create and tinker with.
+Computer systems, image art and nature are part of my biggest interests.
 
 I am a reserved person but I am not very shy. I don't socialize much but when I do I like to make it count.
 
@@ -11,7 +11,6 @@ I am a reserved person but I am not very shy. I don't socialize much but when I 
 
 ## Hobbies
 * Image art
-  * Image manipulation, 3D image renders and photography
 * Programming
 * UNIX-like operating systems
 * Gardening
@@ -20,7 +19,7 @@ I am a reserved person but I am not very shy. I don't socialize much but when I 
 * Playing videogames
 * Slacking off
 
-## I like
+## Likes
 * Touhou Project
 * Anime, manga and general otaku culture
 * Slacking off
@@ -34,7 +33,7 @@ I am a reserved person but I am not very shy. I don't socialize much but when I 
 * Sparkling water
 * Pizza
 
-## I dislike
+## Dislikes
 * Excessive noise
 * Cars
 * Sand
@@ -49,20 +48,17 @@ I am a reserved person but I am not very shy. I don't socialize much but when I 
 * Darktable for photo post-production
 * Nikon D3500 is my current camera
 
-I like making image art with characters I like. I usually use plushies, nendoroids, 2D portraits/sprites and 3D models to make my stuff.
-I like preserving picture quality (lossless) and non-destructive editing, thankfully GIMP has the latter since version 3.0.
+I make image artworks with characters I like. I usually use plushies, nendoroids, 2D portraits/sprites and 3D models to make my stuff.
 
-Right now I post some of my images on my Steam account, but I am considering making a gallery right here on Github in the future.
+Right now many of my images are on my Steam account's artworks page, but I am considering making a gallery right here on Github in the future.
 
 ## Programming workflow
 * Emacs and Micro for code editing
 * Whatever is currently my file manager and terminal
 
-I like sofware minimalism both as a user and as a developer. Very often CLI and TUI are preferred over graphical interfaces since they tend to be faster, more efficient, use less resources and can be automated or programmed. I follow UNIX software principles closely, especially text communication, composition and pipelines, pseudo-files and "do one thing and do it well".
+I enjoy software minimalism both as a user and as a developer. Very often CLI and TUI are preferred over graphical interfaces since they tend to be faster, more efficient, use less resources and can be automated or programmed. These ideas are also applied in the tools and editors I use.
 
-I don't enjoy making GUI software so almost everything I make is CLI or TUI. I'm not a big fan of huge code editors or having all my tools inside the editor, so I prefer to use smaller editors like Emacs or Micro and fragment functionality into different programs (for example: git, compiler/build tool and file management outside the editor).
-
-I like boring and reliable languages that are static-typed and more C-like but with modern quality of life, like Java and C#. I don't use Go yet but I really admire that language and I think it's the future of programming languages, one day I might fully switch to it. Right now I make everything in Java and only use C# for Unity.
+Boring and reliable languages that are static-typed and more C-like but with modern quality of life, like Java and C#, are the best for me. I don't use Go yet but I really admire that language and I think it's the future of programming languages, one day I might fully switch to it. Right now I make everything in Java and only use C# for Unity.
 
 I have a very defined standard for what good documentation is, an example of it being the Java and .NET API documentation. I like to document stuff myself, and I feel horrible when I have to go through a language, library or tool that is badly documented. 
 
