@@ -8,4 +8,4 @@ I treat my Github account as my main place, you can find pretty much everything 
 * [Artworks Gallery](https://steamcommunity.com/id/spacebanana420/images/)
 * [Written works and guides](https://github.com/spacebanana420/texts?tab=readme-ov-file)
 
-<img src="img/Yukaridromeda_quarter.png" width="150" />
+<img src="img/Yukaridromeda_quarter.webp" width="150" />
