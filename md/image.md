@@ -1,12 +1,12 @@
 # Image Manipulation, Photography and 3D image
 
-Image-related art was my first digital hobby ever, besides playing videogames. When I was a kid I used to make simple games/places on Roblox with Roblox Studio, and I needed to edit an image for one of my games. That moment was when I first worked with any kind of image, back then I used Adobe Fireworks CS3.
+Digital image creation was my first computer hobby ever besides playing videogames and tinkering with the system itself. When I was a kid I used to make simple games/places on Roblox with Roblox Studio and I needed to edit an image for one of my games. That was the moment I first worked with any kind of image. Back then I used Adobe Fireworks CS3.
 
 Nowadays, I dedicate deeply to various forms of image creation. I have a necessity to project a vision of characters I like in a certain world or context, and as result I usually create various images with my favourite characters.
 
 ## Image manipulation
 
-When I say "image manipulation", I refer to all images that came from a 2D environment. I make these images with my beloved GIMP, but in the past I used Krita, Photoshop CC 2021 and 2019, Fireworks CS3 and others.
+When I say "image manipulation" I refer to all my images that came from a 2D environment. I make these images with my beloved GIMP, but in the past I used Krita, Photoshop CC 2021 and 2019, Fireworks CS3 and others.
 
 The process starts in gathering the raw materials: the portraits or sprites of a character and the background image. I usually use official portrait and sprite artworks if the character in question comes from Touhou, Pokémon or is a UTAU/Vocaloid/etc. For Touhou, I also create a character setup with Walfas, and old Flash Player project.
 
@@ -20,7 +20,7 @@ Very often the background image is mine, usually a photograph I took or a high r
 
 ## Photography
 
-I am also a photographer. I started taking photography more seriously by 2020, and my interest increased a lot when I got myself a DSLR camera. I like toy photography the most, using plushies, figures and nendoroids, because it's a direct real-life equivalent of what I do with GIMP and Blender. I also like photographing plants, animals and landscapes, though I prefer if I can at least compose a plush into the scene.
+I am also a photographer. I started taking photography more seriously by 2020 and my interest increased a lot when I got myself a DSLR camera. I like toy photography the most, using plushies, figures and nendoroids exactly because it's a direct real-life equivalent of what I do with GIMP and Blender. I also like photographing plants, animals and landscapes, though I prefer if I can at least compose a plush into the scene.
 
 <div align="center">
   <img src="../img/photo_yuuka.webp" width="32%" alt="Yuuka">
