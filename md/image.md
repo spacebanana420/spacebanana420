@@ -30,7 +30,7 @@ I am also a photographer. I started taking photography more seriously by 2020 an
 
 ## 3D image
 
-3D images are image renders created from a 3D scene. A 3D world is less convenient to build compared to making an image on GIMP but it gives much better control over perspective, lighting, depth and other characteristics. I use Blender for my 3D images, and I often use 2D sprites placed on my 3D world and sometimes proper 3D models of characters. To create a world conveniently, I build it in Minecraft then export it as a 3D model. Or I sculpt and paint the terrain then place Minecraft constructions and trees on it.
+3D images are image renders created from a 3D scene. A 3D world is less convenient to build compared to making an image on GIMP but it gives much better control over perspective, lighting, depth and other characteristics. I use Blender for my 3D images and I often place 2D sprites on my 3D worlds and sometimes use proper 3D models of characters. To create a world conveniently, I build it in Minecraft then export it as a 3D model. Or I sculpt and paint the terrain then place Minecraft constructions and trees on it.
 
 While I use Blender now, I have used Unity and Source Filmmaker before for this purpose and I occasionally use Garry's Mod.
 
