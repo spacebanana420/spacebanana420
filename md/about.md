@@ -52,6 +52,8 @@ I make image artworks with characters I like. I usually use plushies, nendoroids
 
 Right now many of my images are on my Steam account's artworks page, but I am considering making a gallery right here on Github in the future.
 
+* [Image Artwork Overview](image.md)
+
 ## Programming workflow
 * Emacs and Micro for code editing
 * Whatever is currently my file manager and terminal
