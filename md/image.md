@@ -8,9 +8,9 @@ Nowadays, I dedicate deeply to various forms of image creation. I have a necessi
 
 When I say "image manipulation" I refer to all my images that came from a 2D environment. I make these images with my beloved GIMP, but in the past I used Krita, Photoshop CC 2021 and 2019, Fireworks CS3 and others.
 
-The process starts in gathering the raw materials: the portraits or sprites of a character and the background image. I usually use official portrait and sprite artworks if the character in question comes from Touhou, Pokémon or is a UTAU/Vocaloid/etc. For Touhou, I also create a character setup with Walfas, and old Flash Player project.
+The process starts in gathering the raw materials: the portraits or sprites of a character and the background image. I usually use official portrait and sprite artworks if the character in question comes from Touhou, Pokémon or is a UTAU/Vocaloid/etc. For Touhou, I also create a character setup with [Walfas](https://walfas.org/), an old Flash Player project.
 
-Very often the background image is mine, usually a photograph I took or a high resolution screenshot taken in Space Engine, Vintage Story, Minecraft or similar games that give you some level of control.
+Very often the background image was taken/created by me, usually a photograph I took or a high resolution screenshot taken in Space Engine, Vintage Story, Minecraft or similar games that give you some level of control.
 
 <div align="center">
   <img src="../img/Kogasa Watcher.webp" width="32%" alt="Kogasa and The Watcher">
