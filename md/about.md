@@ -2,7 +2,7 @@
 I am Space Banana, a slacker programmer who treats the different aspects of life as systems that you create and tinker with.
 Computer systems, image art and nature are part of my biggest interests.
 
-I am a reserved person but I am not very shy. I don't socialize much but when I do I like to make it count.
+I am a reserved person but I am not very shy. I don't socialize much but when I do I like to make it count. I spend most of my personal time dedicated to my hobbies.
 
 <p align="center">
   <img src="img/Moriya Shrine.webp" width="300" />
