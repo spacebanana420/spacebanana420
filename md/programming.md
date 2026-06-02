@@ -45,3 +45,10 @@ I currently use GNU Emacs and Micro for programming. I used all kinds of editors
 I like to use tools that are very cross-platform or entirely platform-agnostic, tools that I know will always be there for me even if I drastically switch platform one day. I don't like big IDEs, not as much because of their size and slowness (though that too) but mostly because they are designed for all your functionality and tools to be inside them. When a single editor contains everything, including compiler/build tool, terminal, git, etc, you become bound to it. Being bound to an IDE makes it much harder to replace a component, since you have to replace the entire suite or stay exactly the same. Fragmentation gives modularity, and you can swap certain tools while keeping others and you can cherrypick the various tools.
 
 I don't use an LSP or any kind of autocompletion anymore, not because of any software bloat extremism but due to the fact that the Java LSPs don't really work unless you use a mainstream build tool like Maven. Besides, the Java API documentation is really well made, so I just use that. 
+
+
+## Documentation
+
+I'm a freak for documentation. I have a very defined standard for what good documentation is. A good example of great documentation is the Java and .NET API documentation. Easy to find what you want, everything is structured linearly and logically, everything is transparent. All the methods, fields, static or not, what is returned, what exceptions it can throw, description, example, etc is very well laid out.
+
+I heard many programmers hate writing documentation, but I love writing my own. I believe it's very important that my projects are well-documented both for the user and the developer, even for myself. At the very least I should write comments in code if documentation isn't there.
