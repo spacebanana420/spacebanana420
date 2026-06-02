@@ -64,6 +64,8 @@ Boring and reliable languages that are static-typed and more C-like but with mod
 
 I have a very defined standard for what good documentation is, an example of it being the Java and .NET API documentation. I like to document stuff myself, and I feel horrible when I have to go through a language, library or tool that is badly documented. 
 
+* [Programming Overview](programming.md)
+
 ## Operating systems
 It's obvious by now that I like UNIX-like systems. I use Linux systems on my machines, usually just Artix Linux or Devuan. UNIX operating system design is visionary and revolutionary, an architecture that gives the user efficiency, power and freedom in incredible ways never seen anywhere else. Needless to say that I don't really like Windows.
 
