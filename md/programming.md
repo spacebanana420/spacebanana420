@@ -33,7 +33,7 @@ My opinions and preferences on programming languages are very established. I ten
 
 * I like using Java the most. I use and abuse this language every time I can.
 * I also like C#, though I only really use it on Unity since Java covers the rest.
-* I don't currently use Go but I really admire this langauge and the pure efficiency and simplicity of its compiler and how it can cross-compile by default and does not depend on LLVM or libc.
+* I don't currently use Go but I really admire this language and the pure efficiency and simplicity of its compiler and how it can cross-compile by default and does not depend on LLVM or libc.
 * Ruby is nice, I tend to avoid dynamically-typed languages but I like it.
 * I use Python all the time at work but I don't like how it's designed and how pip enforces overcomplicated virtual environments to install libraries system-wide. I prefer Ruby.
 * I tend to avoid pure functional programming languages or languages that are closer to it, such as Haskell. I prefer direct imperative programming that doesn't get in my way and is the most transparent.
