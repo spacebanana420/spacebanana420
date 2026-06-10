@@ -1,8 +1,8 @@
 # About Me
-I am Space Banana, a slacker programmer who treats the different aspects of life as systems that you create and tinker with.
+I am Space Banana, a master slacker who treats the different aspects of life as systems that you can create and tinker with.
 Computer systems, image art and nature are part of my biggest interests.
 
-I am a reserved person but I am not very shy. I don't socialize much but when I do I like to make it count. I spend most of my personal time dedicated to my hobbies.
+I am a reserved person but I am not very shy. I spend most of my personal time dedicated to my hobbies, with an increasing drive for toy photography.
 
 <p align="center">
   <img src="../img/Moriya Shrine.webp" width="300" />
@@ -10,7 +10,7 @@ I am a reserved person but I am not very shy. I don't socialize much but when I 
 
 
 ## Hobbies
-* Image art
+* Image art (image manipulation, photography, 3D image)
 * Programming
 * UNIX-like operating systems
 * Gardening
@@ -23,13 +23,17 @@ I am a reserved person but I am not very shy. I don't socialize much but when I 
 * Touhou Project
 * Anime, manga and general otaku culture
 * Slacking off
+* Plushies
 * Bicycles
 * Trains
 * Yuuka-sama
 * Fog
+* Thunderstorms
 * Birds
 * Frogs
 * Bugs
+* Trees
+* Green cities
 * Sparkling water
 * Pizza
 
@@ -37,6 +41,8 @@ I am a reserved person but I am not very shy. I don't socialize much but when I 
 * Excessive noise
 * Cars
 * Sand
+* Pollution
+* Heights
 * Peak summer heat
 * Mosquitoes
 * Software bloat
@@ -58,12 +64,10 @@ Right now many of my images are on my Steam account's artworks page, but I am co
 * Emacs and Micro for code editing
 * Whatever is currently my file manager and terminal
 
-I enjoy software minimalism both as a user and as a developer. Very often CLI and TUI are preferred over graphical interfaces since they tend to be faster, more efficient, use less resources and can be automated or programmed. These ideas are also applied in the tools and editors I use.
+I usually make command-line programs that satisfy my needs. I use Java all the time, thought I am considering switching to Go one day.
 
-Boring and reliable languages that are static-typed and more C-like but with modern quality of life, like Java and C#, are the best for me. I don't use Go yet but I really admire that language and I think it's the future of programming languages, one day I might fully switch to it. Right now I make everything in Java and only use C# for Unity.
-
-I have a very defined standard for what good documentation is, an example of it being the Java and .NET API documentation. I like to document stuff myself, and I feel horrible when I have to go through a language, library or tool that is badly documented. 
-
+I enjoy software minimalism both as a user and as a developer. Very often CLI and TUI are preferred over graphical interfaces since they tend to be faster, more efficient, use less resources and can be automated or programmed.
+ 
 * [Programming Overview](programming.md)
 
 ## Operating systems
