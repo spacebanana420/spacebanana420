@@ -42,11 +42,16 @@ My opinions and preferences on programming languages are very established. I ten
 
 ## Environment
 
-I currently use GNU Emacs and Micro for programming. I used all kinds of editors before and I might change to another one in the future but for now I'm established.
+I currently use GNU Emacs, Helix and Micro for programming. I used all kinds of editors before and I might change to another one in the future but for now I'm established.
 
-I like to use tools that are very cross-platform or entirely platform-agnostic, tools that I know will always be there for me even if I drastically switch platform one day. I don't like big IDEs, not as much because of their size and slowness (though that too) but mostly because they are designed for all your functionality and tools to be inside them. When a single editor contains everything, including compiler/build tool, terminal, git, etc, you become bound to it. Being bound to an IDE makes it much harder to replace a component, since you have to replace the entire suite or stay exactly the same. Fragmentation gives modularity, and you can swap certain tools while keeping others and you can cherrypick the various tools.
+I like to use tools that are very cross-platform or entirely platform-agnostic, tools that I know will always be there for me even if I drastically switch platform one day.
+I don't like big IDEs, not as much because of their size and slowness (though that too) but mostly because they are designed for all your functionality and tools to be inside them.
+When a single editor contains everything, including compiler/build tool, terminal, git, etc, you become bound to it.
+Being bound to an IDE makes it much harder to replace a component, since you have to replace the entire suite or stay exactly the same.
+Fragmentation gives modularity, and you can swap certain tools while keeping others and you can cherrypick the various tools.
 
-I don't use an LSP or any kind of autocompletion anymore, not because of any software bloat extremism but due to the fact that the Java LSPs don't really work unless you use a mainstream build tool like Maven. Besides, the Java API documentation is really well made, so I just use that. 
+I don't use an LSP or any kind of autocompletion anymore, not because of any software bloat extremism but due to the fact that the Java LSPs don't really work unless you use a mainstream build tool like Maven.
+Besides, the Java API documentation is really well made, so I just use that. I guess I do prefer to have lower CPU and memory usage, especially when my laptop is not plugged.
 
 
 ## Documentation
