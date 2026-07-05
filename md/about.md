@@ -26,19 +26,12 @@ I like tinkering with computers, programming and automating but I also deeply en
 * Plushies and articulated toys (great for photography and comfort)
 * Bicycles, trains and other rail transport
 * Yuuka-sama
-* Fog and thunderstorms
+* Trees, fog and thunderstorms
 * Birds, frogs, bugs and other animals
-* Trees
-* Green and walkable cities
 * Tiramisu, sparkling water, pizza and [francesinha](https://en.wikipedia.org/wiki/Francesinha)
 
 ## Dislikes
-* Loud and excessive noise
-* Car-dependant cities with weak alternatives
-* Sand
-* Pollution
-* Peak summer heat
-* Mosquitoes
+* Mosquito
 
 ## Image workflow
 * GIMP for 2D image manipulation (previously Krita too)
@@ -63,8 +56,7 @@ I enjoy software minimalism both as a user and as a developer, and often prefer 
 * [Programming Overview](programming.md)
 
 ## Operating systems
-It's obvious by now that I like UNIX-like systems. I use Linux systems on my machines, usually just Artix Linux or Devuan.
+I really like UNIX-like systems. I use Linux systems on my machines, usually just Artix Linux or Devuan.
 UNIX operating system design is visionary and revolutionary, an architecture that gives the user efficiency, power and freedom in incredible ways never seen anywhere else.
-Needless to say that I don't really like Windows and how it does not provide simple, direct and raw control for the user.
 
 BSD family systems interest me but I prefer the Linux kernel for better hardware support, some pseudo-files and Linux-native games.
