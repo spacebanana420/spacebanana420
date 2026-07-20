@@ -1,5 +1,5 @@
 # About Me
-I am Space Banana, a master slacker who treats the different aspects of life as systems you can build and tinker with.
+I am Space Banana, a master slacker who loves to tinker with tools and systems.
 
 I am a reserved person but I am not particularly shy. I spend most of my personal time into my hobbies, with an increasing drive for toy photography.
 I like tinkering with computers, programming and automating but I also deeply enjoy creating digital image artworks.
@@ -42,11 +42,11 @@ I like tinkering with computers, programming and automating but I also deeply en
 
 I make image artworks with characters I like. I usually use plushies, nendoroids, 2D portraits/sprites and 3D models to make my stuff.
 
-* [Image Artwork Gallery](https://github.com/spacebanana420/image-gallery)
+* [Image Artwork Gallery](https://github.com/spacebanana420/image-gallery/blob/main/README.md)
 * [Image Artwork Overview](image.md)
 
 ## Programming workflow
-* Emacs, Helix and Micro for code editing
+* Emacs, Helix and Micro for programming and file editing
 * Whatever is currently my file manager and terminal
 
 I usually make command-line programs that satisfy my needs. I use Java all the time, though I am considering switching to Go one day for its simplicity and efficiency.
