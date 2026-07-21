@@ -1,7 +1,7 @@
 ## Hello, I am the Banana
 I am Space Banana. I love computer systems, image art and gardening. UNIX-like systems are the best.
 
-I treat my Github account as my main place, you can find pretty much everything here.
+I treat my GitHub account as my main account, you can find pretty much everything here from my programs to texts to artworks.
 
 ## Links
 * [**About Me**](md/about.md)
